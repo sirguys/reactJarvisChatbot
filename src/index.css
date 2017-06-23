@@ -1,0 +1,11 @@
+html, body, .container {
+
+}
+
+.header-chat {
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  background-color: #eee;
+  padding: 20px;
+  margin: 0;
+}
